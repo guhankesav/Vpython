@@ -1,6 +1,6 @@
 # Vpython
 This contains my cool 3D vpython projects
-#Bouncer Game
+##Bouncer Game
 ![GAME](bouncer.gif)
 
 
@@ -8,7 +8,7 @@ Here the acceleration increases over time as well as the Game moves On . Increas
 
 Find this code in the bouncer repository.
 
-#Ping Pong Game
+##Ping Pong Game
 ![GAME](pingpong.gif)
 
 
