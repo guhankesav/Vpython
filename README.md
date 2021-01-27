@@ -16,4 +16,4 @@ Find this code in the bouncer repository.
 
 Move the rackets to keepthe ball in game , it goes out then you too
 
-Find this code in the bouncer repository.
+Find this code in the pingpong repository.
