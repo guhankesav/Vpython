@@ -1,5 +1,6 @@
 GlowScript 2.7 VPython
  
+ 
 scene = display(title="BOUNCE GAME :",width=450)
 ball = sphere(pos=vec(0,0,0),size=vector(3,3,1),color=vector(1,0,0),radius=5)
 background = box(pos=vector(0,0,0),size=vector(50,44,.1),color=vec(0,1,2))
