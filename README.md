@@ -15,7 +15,7 @@ Find this code in the bouncer repository.
 ![GAME](pingpong.gif)
 
 ## Demo  <br/>
-[Demo](https://glowscript.org/#/user/Guhan/folder/MyPrograms/program/PINGBOUNCE)
+[Demo](https://glowscript.org/#/user/Guhan/folder/MyPrograms/program/TABLETENNIS)
 
 Move the rackets to keepthe ball in game , it goes out then you too
 
